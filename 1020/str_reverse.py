@@ -23,4 +23,4 @@ rev = list(str1)
 for c in str1:
     i -= 1
     rev[i] = c
-print(join(rev))
+print(''.join(rev))
