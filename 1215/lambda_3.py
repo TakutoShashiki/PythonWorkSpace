@@ -19,4 +19,4 @@ filter  リストを作成する際、条件で抽出
 '''
 
 print(my_list)
-print(new_list)
+print(new_list) 

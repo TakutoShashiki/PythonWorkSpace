@@ -55,4 +55,4 @@ def output_payment(pay_pepole, pay_coordinator, num_peple):
 total = input_int('支払い合計金額')
 num_pepole = input_int('参加人数')
 [pay_pepole, pay_coordinator] = calc_payment(total, num_pepole)
-output_payment(pay_pepole,pay_coordinator,num_pepole)
+output_payment(pay_pepole,pay_coordinator,num_pepole) 

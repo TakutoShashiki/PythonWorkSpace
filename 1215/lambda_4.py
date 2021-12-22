@@ -41,4 +41,4 @@ select_cards = random.sample(cards,5)
 select_cards.sort(reverse=True, key=lambda x: x[1])
 #仮引数keyに関数を渡している(ラムダ式の)
 # 出力
-print(select_cards)
+print(select_cards) 
